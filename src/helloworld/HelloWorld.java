@@ -2,7 +2,7 @@ package helloworld;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		int i = 10;
+		int i = 20;
 		String s = "hello";
 		//String s = new String( "hello" );
 		
